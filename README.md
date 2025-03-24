@@ -19,7 +19,8 @@ The gamut of real surface colours is constituted of both natural and artificial 
 ##  **3.File Description**  
 | File                     | Description                          | Format     |  
 |--------------------------|--------------------------------------|------------|  
-| `gamut_data_CIELAB_d65.xlsx` | L, a, b values under D65       | xlsx       |  
+| `Proposed_Gamut_D65.csv` | Proposed colour gamut for representing real surface colours       | csv      |  
+| `Full_Gamut_D65.csv` | Full colour gamut that fully contain real surface colours, with a slightly larger volume, provided as supplementary material.       | csv       |  
 
 ## Reference
 1.	Li, Changjun, et al. "Comparison of real colour gamuts using a new reflectance database." Colour Research & Application 39.5 (2014): 442-451.
