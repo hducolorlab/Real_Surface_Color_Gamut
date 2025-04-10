@@ -1,4 +1,4 @@
-# Real Surface Color Gamut Dataset (CIELAB-based)
+# Real Surface Color Gamut
 
 ## 📌 1. Overview  
 This dataset contains 102,801 reflectance samples constituting the gamut of real surface colors under D65 illuminant in CIELAB color space. The proposed gamut serves as a reference for:
